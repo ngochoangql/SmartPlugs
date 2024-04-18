@@ -1,0 +1,34 @@
+{
+  "relay_events": [
+    {
+      "scheduler_id": "494c6abc-d541-4777-898f-9bbcc39f1663",
+      "device_id": "hoang",
+      "event_type": 1,
+      "time_selected": "16:16",
+      "repeat_type": "daily",
+      "days_repeat": [],
+      "status": false
+    },
+    {
+      "scheduler_id": "8237dda1-adcf-48a8-92ff-b23abf1944cb",
+      "device_id": "thanh",
+      "event_type": 1,
+      "time_selected": "16:18",
+      "repeat_type": "weekend",
+      "days_repeat": [
+        "Th 7",
+        "CN"
+      ],
+      "status": true
+    },
+    {
+      "scheduler_id": "af05f22b-b7e1-497f-a4e7-72f8e53b306d",
+      "device_id": "hoang",
+      "event_type": 1,
+      "time_selected": "16:50",
+      "repeat_type": "daily",
+      "days_repeat": [],
+      "status": true
+    }
+  ]
+}

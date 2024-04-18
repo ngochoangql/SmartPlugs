@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F9F9F9</color> <!-- Ví dụ: màu trắng -->
+    <color name="switch_thumb_on_color">#C82222</color> <!-- Ví dụ: màu trắng -->
+    <color name="switch_thumb_off_color">#C6A1A1</color> <!-- Ví dụ: màu trắng -->
+    <color name="text_under">#4CAF50</color>
+</resources>

@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "device_id": "hoang",
+      "device_name": "Hoàng",
+      "room_name": "Phòng Khách",
+      "value_limit": 300,
+      "state_limit": false,
+      "relay_status": "off"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "histories": [
+    {
+      "id": "smart_plug_0001",
+      "name": "Update relay",
+      "date": "19:04 06/04/2024",
+      "description": "Cập nhật relay ở chế độ bật"
+    },
+    {
+      "id": "smart_plug_0001",
+      "name": "Update relay",
+      "date": "12:33 09/04/2024",
+      "description": "Cập nhật relay ở chế độ tắt"
+    },
+    {
+      "id": "smart_plug_0001",
+      "name": "New scheduler",
+      "date": "12:34 09/04/2024",
+      "description": "Thêm hoạt động tắt relay lúc 12:34 ở chế độ một lần"
+    },
+    {
+      "id": "smart_plug_0001",
+      "name": "Update Scheduler",
+      "date": "12:34 09/04/2024",
+      "description": "Sửa hoạt động thành tắt relay lúc 12:34 ở chế độ một lần Thứ hai Thứ ba Thứ tư Thứ năm Thứ sáu Thứ bảy Chủ nhật"
+    }
+  ]
+}

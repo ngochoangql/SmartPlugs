@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Top part with unchanged corners -->
+
+    <item android:bottom="20dp">
+        <shape android:shape="rectangle">
+            <corners android:topLeftRadius="10dp" android:topRightRadius="10dp" />
+<!--            <stroke-->
+<!--                android:width="2dp"-->
+<!--                android:color="#467397" />-->
+<!--            <solid android:color="#AEABAB"></solid>-->
+        </shape>
+    </item>
+
+    <!-- Bottom part with changed corners -->
+    <item android:top="00dp"> <!-- Điều chỉnh top để tạo khoảng cách giữa hai phần -->
+        <shape android:shape="rectangle">
+            <corners android:bottomLeftRadius="10dp" android:bottomRightRadius="10dp" />
+            <stroke
+                android:width="2dp"
+                android:color="#467397" />
+<!--            <solid android:color="#AEABAB"></solid>-->
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Màu sắc cho thumb khi switch được bật -->
+    <item android:color="@color/switch_thumb_on_color" android:state_checked="true" />
+    <!-- Màu sắc cho thumb khi switch được tắt -->
+    <item android:color="@color/switch_thumb_off_color" />
+</selector>
